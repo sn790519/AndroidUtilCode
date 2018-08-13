@@ -2,11 +2,11 @@
 
 [![auc][aucsvg]][auc] [![api][apisvg]][api] [![build][buildsvg]][build] [![Insight][insightsvg]][insight] [![License][licensesvg]][license]
 
-## [README of Chinese][readme-cn]
+## [README of English][readme]
 
 ## About
 
-**[AndroidUtilCode][readme]** :fire: is a powerful & easy to use library for Android. This library encapsulates the functions that commonly used in Android development which have complete demo and unit test. By using it's encapsulated APIs, you can greatly improve the development efficiency. The program mainly consists of two modules which is **[utilcode][utilcode-cn]**, which is commonly used in development, and **[subutil][subutil-cn]** which is rarely used in development, but the utils can be beneficial to simplify the main module. :fire:
+**[AndroidUtilCode][readme]** :fire: 是一个强大易用的安卓工具类库，它合理地封装了安卓开发中常用的函数，具有完善的 Demo 和单元测试，利用其封装好的 APIs 可以大大提高开发效率，如今它主要包括两部分模块，其一是主工具类模块：**[utilcode][utilcode-cn]**，其中的工具类是开发中常用到的；其二是子工具类模块：**[subutil][subutil-cn]**，它包含的工具类并不是很常用，它的出现是为了防止主工具类的臃肿。 :fire:
 
 
 ## Documentation
@@ -25,7 +25,7 @@
 
 ## Donations
 
-If this project helps you a lot and you want to support the project's development and maintenance of this project, feel free to scan the following QR code for donation. Your donation is highly appreciated. Thank you!
+如果它对你帮助很大，并且你很想支持库的后续开发和维护，那么你可以扫下方二维码随意打赏我，就当是请我喝杯咖啡或是啤酒，我将不胜感激 :-)
 
 ![donate][donate]
 
@@ -78,8 +78,8 @@ If this project helps you a lot and you want to support the project's developmen
 [weibosvg]: https://img.shields.io/badge/weibo-@__Blankj-34a48e.svg
 [weibo]: http://weibo.com/3076228982
 
-[qq0groupsvg]: https://img.shields.io/badge/QQ0群(满)-74721490-ff73a3.svg
+[qq0groupsvg]: https://img.shields.io/badge/QQ群0(满)-74721490-ff73a3.svg
 [qq0group]: https://shang.qq.com/wpa/qunwpa?idkey=62baf2c3ec6b0863155b0c7a10c71bba2608cb0b6532fc18515835e54c69bdd3
 
-[qq1groupsvg]: https://img.shields.io/badge/QQ1群-25206533-ff73a3.svg
+[qq1groupsvg]: https://img.shields.io/badge/QQ群1-25206533-ff73a3.svg
 [qq1group]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
